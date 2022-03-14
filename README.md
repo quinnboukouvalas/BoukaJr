@@ -5,7 +5,7 @@
     :wave: Hey there, it's Quinn! 🔥
     <br>I am striving to become
       <br>the best version of myself 
-    <br>through  <em>design</em> & <em> code </em> <img src="https://media.giphy.com/media/hWM5xcVje9cQscDLbP/source.gif" width="20px"><br><br>
+    <br>through unrelenting hard work<img src="https://media.giphy.com/media/hWM5xcVje9cQscDLbP/source.gif" width="20px"><br><br>
     <img src="https://media.giphy.com/media/gLbxPIO6lIMZEPm7XN/source.gif" width="240px" align="center">
     <br><br>:coffee: Let's talk? 💌 @ <a href="mailto:hello@gayurug.com?subject=Let's Build Together">quinnvb@hotmail.com</a>
   </samp>
