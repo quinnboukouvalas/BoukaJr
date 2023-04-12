@@ -1,14 +1,12 @@
 <p align="center" >
   <samp>
-    :wave: Hey there, it's Quinn! 🔥
-    <br>I am striving to become
-      <br>the best version of myself 
-    <br>through unrelenting hard work<img src="https://media.giphy.com/media/hWM5xcVje9cQscDLbP/source.gif" width="20px"><br><br>
+    :wave: Quinn here 🔥
+    <br>Training to become
+      <br>a super saiyan
     <img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="480" height="270" frameBorder="0" class="giphy-embed" ></img>
-    <br><br>:coffee: Always free for a chat 💌 @ <a href="mailto:hello@gayurug.com?subject=Let's Build Together">quinnvb@hotmail.com</a>
+    <br><br>:brain: Always free for some training 👊 @ <a href="mailto:quinnvb@hotmail.com?subject=Hey Quinn!">quinnvb@hotmail.com</a>
   </samp>
 </p>
-
 
 <!--
 **BoukaJr/BoukaJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
