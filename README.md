@@ -3,7 +3,7 @@
     :wave: Quinn here 🔥
     <br>Training to become
       <br>a super saiyan
-    <img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="480" height="270" frameBorder="0" class="giphy-embed" ></img>
+    <br><br><img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="480" height="270" frameBorder="0" class="giphy-embed" ></img>
     <br><br>:brain: Always free for some training 👊 @ <a href="mailto:quinnvb@hotmail.com?subject=Hey Quinn!">quinnvb@hotmail.com</a>
   </samp>
 </p>
